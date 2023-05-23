@@ -3,6 +3,9 @@
 }
 
 body {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: light dark;
   padding: 60px;
 }
 
